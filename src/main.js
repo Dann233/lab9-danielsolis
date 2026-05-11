@@ -1,2 +1,2 @@
-import "./Components/UcrLetrero.js";
-import "./Components/UcrAcoso.js";
+import "./Components/ucrletrero.js";
+import "./Components/ucracoso.js";
